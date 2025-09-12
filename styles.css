@@ -1,0 +1,35 @@
+.main-panel{
+    margin: auto;
+    color: black;
+    background-color: #4c4c4c;
+    width: 350px;
+    border: 20px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    text-align: center;
+}
+
+.name{
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    font-family: arial;
+}
+
+.links {
+    background-color: grey;
+    width: 220px;
+    height: 30px;
+    margin: auto;
+    border-radius: 5px;
+    /* margin-top: auto; */
+    /* text-align: center; */
+    /* text-size-adjust: auto; */
+    /* vertical-align: text-bottom; */
+    padding-top: 10px;
+}
+
+.links-text{
+
+}
