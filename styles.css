@@ -75,3 +75,6 @@ a:visited{
     color: hsl(0, 0%, 100%);
     transition: color 0.3s ease-in-out;
 }
+.pfp{
+    border-radius: 100px;
+}
